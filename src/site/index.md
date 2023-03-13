@@ -1,6 +1,6 @@
 ---
 title: OnlyDans International Consulting
-subtitle: A portfolio and company website for Dan Ward, CEO of OnlyDans International Consulting.<br />A mixture of 20 years industry experience in IT and the related industries that required IT support during those years.
+subtitle: A portfolio and company website for Dan Ward, CEO of OnlyDans International Consulting.
 layout: layouts/base.njk
 ---
 
